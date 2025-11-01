@@ -7,5 +7,3 @@ if mediadanotastopsenegativas <=60:
 else:
 
     print("TIRASTE POSITIVA BOAAA XD XD XD :D :D D: ")
-    end
-end
